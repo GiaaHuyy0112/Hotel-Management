@@ -1,0 +1,51 @@
+input[type=text], input[type=password] {
+	width: 100%;
+	padding: 12px 20px;
+}
+#pageform,form{
+	width: 55%;
+	margin: auto;
+	color: white;
+}
+#regis{
+	float: right;
+}
+
+#modal{
+	margin: auto;
+	height: 800px;
+	width: 500px;
+	opacity: 2;
+	
+}
+.col{
+	padding:10px;
+}
+button {
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+}
+h1 {
+	margin: auto;
+	width: 15%;
+	padding: 10px;
+	}
+footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+
+#lg{
+	width: 100%;
+	background-color: #4CAF50;
+}
+#subtn{
+	float: right;
+}
+
